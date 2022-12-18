@@ -1,0 +1,142 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    text-align: center;
+}
+.header{
+    background:#2e219a;
+    padding: 15px 0;
+}
+.img {
+	height: 50px;
+	width: 115px;
+}
+.menu{
+    background-color: red;
+    text-align: center;
+    padding: 20px 0;
+}
+.menu ul li{
+    display: inline-block;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    padding: 15px;
+    border-right: 1px solid white;
+}
+.menu ul li:last-child{
+    border: none;
+}
+.contain1{
+    background-image: url(https://i.ibb.co/Sdg70M7/pngtree-simple-creative-background-design-in-the-sky-backgroundcartoonlovelyplanetstarry-skyillustra.jpg);
+    background-size: cover;
+    padding: 200px 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: center;
+}
+.contain1 h2{
+    color: white;
+    font-size: 35px;
+
+}
+.contain1 p{
+    color: white;
+    line-height: 30px;
+    text-align: center;
+    width: 80%;
+    margin: auto;
+}
+.contain1 button {
+	background: rgb(2, 92, 7);
+	padding: 3px 24px;
+    border: none;
+    margin-top:15px ;
+    
+}
+  .button1 a{
+    text-align: center;
+}
+.containt2{
+    background-image: url(https://i.ibb.co/10QNBRz/pngtree-modern-double-color-futuristic-neon-background-image-351866.jpg);
+    background-size: cover;
+    padding: 200px 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+.containt2 h2{
+    background: green;
+    color: white;
+    text-align: center;
+    margin: 25px 0;
+}
+.containt2 p{
+    width: 80%;
+    margin: auto;
+    background: yellow;
+    line-height: 30px;
+    text-align: center;
+
+}
+.containt2 button {
+    text-align: center;
+	background: #000;
+	color: white;
+	margin-top: 25px;
+	border: none;
+	padding: 5px 20px;
+   
+}
+.main-contain {
+	background-color: #4ab75c;
+	padding: 82px 0;
+}
+.main-contain .contain{
+    width: 800px;
+    margin: auto;
+}
+.main-contain .top-sec{
+    margin-bottom: 30px;
+    
+}
+.img-control{
+    width: 100px;
+}
+.select1 .left-sec{
+    margin-right: 100px;
+}
+.select1 *{
+    display: inline-block;
+}
+.select2 *{
+    display: inline-block;
+}
+.select2 .left-sec{
+    width: 60%;
+    text-align: left;
+}
+.select1 .right-sec {
+	width: 62%;
+	margin: 112px 7px;
+    text-align: left;
+}
+.top-sec{
+    text-align: center;
+}
+.footer{
+    background-color:#2c1a8e ;
+    color: white;
+}
+.footer ul{
+    list-style-type: none;
+    padding: 14px 0;
+}
+.footer ul li {
+	display: inline-block;
+	border: 1px solid white;
+	border-radius: 16%;
+	padding:10px;
+	margin: 0 14px;
+}
